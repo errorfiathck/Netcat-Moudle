@@ -483,7 +483,7 @@ Coverage:
 
 ## Author
 
-Rocco Musolino ([@errorfiat](https://twitter.com/ErrorFiat))
+Error Fiat ([@errorfiat](https://twitter.com/ErrorFiat))
 
 ## License
 
