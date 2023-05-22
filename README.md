@@ -12,7 +12,7 @@ Fully tested modules that implements all the basic netcat's features. To use as 
 
 | Linux/Mac | Windows |
 |-----------|---------|
-| [![Build Status](https://travis-ci.org/roccomuso/netcat.svg?branch=master)](https://travis-ci.org/roccomuso/netcat) | [![Build status](https://ci.appveyor.com/api/projects/status/q4x7xwtj7ga3ppo5?svg=true)](https://ci.appveyor.com/project/roccomuso/netcat) |
+| [![Build Status]| [![Build status]
 
 ## What you can do :computer:
 
