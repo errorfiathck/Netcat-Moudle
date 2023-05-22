@@ -8,11 +8,8 @@
 
 > Netcat client and server modules written in pure Javascript for Node.js.
 
-Fully tested modules that implements all the basic netcat's features. To use as standalone tool install the [nc](https://github.com/roccomuso/nc) package.
+Fully tested modules that implements all the basic netcat's features. To use as standalone tool install the [nc](https://github.com/errorfiathck) package.
 
-| Linux/Mac | Windows |
-|-----------|---------|
-| [![Build Status]| [![Build status]
 
 ## What you can do :computer:
 
